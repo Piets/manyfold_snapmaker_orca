@@ -1,2 +1,5 @@
 ---
 en:
+  model_files:
+    download:
+      snapmaker_orca: Open in Snapmaker Orca
